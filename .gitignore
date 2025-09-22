@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Wordlists
+rockyou.txt
+wordlists/*
+
+# System files
+.DS_Store
+
